@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.a{
+    height: 100vh;
+    width:100%;
+    background-image: url("../image/service.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.b{
+    color: aliceblue;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.c{
+    color:rgba(221, 164, 85, 0.733) ;
+}
+ol{
+    color: aliceblue;
+}
+ol li{
+    text-transform: capitalize;
+    padding: 30px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

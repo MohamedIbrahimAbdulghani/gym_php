@@ -1,0 +1,200 @@
+/* header{
+    
+    margin-left: 1230px;
+    color: antiquewhite;
+    font-size:20px;
+    
+}
+span{
+    color: darkgoldenrod;
+}
+div{
+    margin-left:500px;
+    margin-top: 100px;
+}
+input{
+    padding: 10px;
+    color:black;
+    margin: 8px    ;
+    border-radius:10PX ;
+
+}
+body{
+    background-image:url(../img/h.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+label{
+    color:aliceblue;
+}
+.in1{
+width: 380px;
+}
+.in2{
+    width: 380px;
+    }
+.in3{
+  width: 380px;
+        }
+.in4{
+    margin-left:150px;
+    background-color: black;
+    color: aliceblue;
+} */
+/* body{
+    background-image:url(../img/h.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+header{
+    text-align:left;
+    padding: 10px;
+    color: antiquewhite;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+}
+span{
+    color: darkgoldenrod;
+}
+form {
+    margin-left: 5%;
+    margin-top: 10%;
+}
+input{
+    padding: 10px;
+    color:black;
+    margin: 8px    ;
+    border-radius:10PX ;
+    display: inline-block !important;
+}
+
+label{
+    color:aliceblue;
+    font-size: 26px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in1{
+width: 426px;
+}
+.in2{
+    width: 426px;
+    }
+.in3{
+  width: 426px;
+}
+.in4{
+    margin-left:38%;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in8 {
+    display: block !important;
+    width: 71%;
+}
+
+@media only screen and (max-width: 1399px) {
+    .in8 {
+        width: 83%;
+    }
+  }
+  
+  @media only screen and (max-width: 1199px) {
+    .in8 {
+        width: 98%;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .in8 {
+        width: 65%;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .in8 {
+        width: 86%;
+    }
+  }
+  @media only screen and (max-width: 540px) {
+    .in8 {
+        width: 95%;
+    }
+  } */
+  header{
+    text-align:left;
+    /* padding: 10px;
+    color: antiquewhite;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif; */
+}
+span{
+    color: darkgoldenrod;
+}
+form {
+    margin-left: 5%;
+    margin-top: 10%;
+}
+input{
+    padding: 10px;
+    color:black;
+    margin: 8px    ;
+    border-radius:10PX ;
+    display: inline-block !important;
+}
+body{
+    background-image:url(../image/h.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+label{
+    color:aliceblue;
+    font-size: 26px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in1{
+width: 426px;
+}
+.in2{
+    width: 426px;
+    }
+.in3{
+  width: 426px;
+}
+.in4{
+    margin-left:38%;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.in8 {
+    display: block !important;
+    width: 71%;
+}
+
+@media only screen and (max-width: 1399px) {
+    .in8 {
+        width: 83%;
+    }
+  }
+  
+  @media only screen and (max-width: 1199px) {
+    .in8 {
+        width: 98%;
+    }
+  }
+  @media only screen and (max-width: 991px) {
+    .in8 {
+        width: 65%;
+    }
+  }
+  @media only screen and (max-width: 767px) {
+    .in8 {
+        width: 86%;
+    }
+  }
+  @media only screen and (max-width: 540px) {
+    .in8 {
+        width: 95%;
+    }
+  }
+
+
